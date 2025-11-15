@@ -1,2 +1,2 @@
 # estudos
-Teste de nova funcionalidade adicionada.
+Linha alterada na FEATURE.
